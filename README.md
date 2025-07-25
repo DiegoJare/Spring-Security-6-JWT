@@ -33,6 +33,6 @@ Con el tiempo, planeo mejorarlo gradualmente incorporando validaciones, manejo g
 
 | Método | Endpoint        | Acceso     | Descripción               |
 |--------|------------------|------------|---------------------------|
-| POST   | `/api/auth/register` | Público    | Registro de usuario       |
-| POST   | `/api/auth/login`    | Público    | Login y obtención de JWT  |
+| POST   | `/auth/register` | Público    | Registro de usuario       |
+| POST   | `/auth/login`    | Público    | Login y obtención de JWT  |
 
